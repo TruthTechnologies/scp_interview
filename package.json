@@ -4,7 +4,7 @@
   "description": "",
   "main": "passengers.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jest ./__tests__/passengers.test.js"
   },
   "keywords": [],
   "author": "",
